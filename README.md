@@ -1,4 +1,4 @@
-# Math Microservice – FastAPI Project
+# Math Microservice – FastAPI Project by Adrian Vladescu
 
 This project provides a small web service (microservice) used to calculate math operations like: factorial, fibonacci and power.
 
